@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: tornadoqiniu
+Version: 1.0.0
+Summary: Qiniu tornado aync Resource Storage SDK
+Home-page: https://github.com/wangande/tornadoqiniu.git
+Author: andrew
+Author-email: wangande@idealsee.cn
+License: BSD
+Description: see:
+        https://github.com/wangande/tornadoqiniu.git
+        
+Platform: any
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

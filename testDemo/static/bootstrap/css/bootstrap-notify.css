@@ -1,0 +1,51 @@
+.notifications {
+  position: fixed;
+  z-index: 9999;
+}
+
+/* Positioning */ 
+.notifications.top-right {
+  right: 10px;
+  top: 35px;
+}
+
+.notifications.top-left {
+  left: 10px;
+  top: 35px;
+}
+
+.notifications.bottom-left {
+  left: 10px;
+  bottom: 35px;
+}
+
+.notifications.bottom-right {
+  right: 10px;
+  bottom: 35px;
+}
+
+.notifications.top-center {
+  width: 100%;
+  left: 0;
+  top: 35px;
+  font-size: 18px
+}
+
+.notifications.center {
+  top: 50%;
+  width: 100%;
+  left: 0;
+}
+
+/* Notification Element */
+.notifications > div {
+  position: relative;
+  z-index: 9999;
+  margin: 5px 0px;
+}
+
+.notifications.center > div , .notifications.top-center > div{
+  margin: 5px auto;
+  width: 30%;
+  text-align: center;
+}
