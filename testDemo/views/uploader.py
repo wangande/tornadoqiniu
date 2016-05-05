@@ -19,24 +19,18 @@ import tornadoqiniu
 from basecode.routes import route
 
 
-ACCESS_KEY = "A7vB3qbo79ZmA7dWNJTbMjjt1UVtjjTYbQ8jeyee"
-SECRET_KEY = "_4JSKT44vZYyM1RS9KXobTZWpNqLy1sOKPb2wus_"
+ACCESS_KEY = "access_key"
+SECRET_KEY = "secret_key"
 
 
-TEST_BUCKET = "testidealsee"
+TEST_BUCKET = "test"
 
 BUCKETS = {
-    "test": "testidealsee",
-    "huanshi": "yixun",
-    "yixunfiles": "yixunfiles",
-    "testyixun": "testyixun",
+    "test": "test",
 }
 
 BUCKETS_URL = {
-    "test": "http://7xiou8.com2.z0.glb.qiniucdn.com/",
-    "huanshi": "http://7xofx2.com2.z0.glb.qiniucdn.com/",
-    "yixunfiles": "http://7xsom5.com2.z0.glb.qiniucdn.com/",
-    "testyixun": "http://7xtnpe.com2.z0.glb.qiniucdn.com/",
+    "test": "http://test.com2.z0.glb.qiniucdn.com/",
 }
 
 

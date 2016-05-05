@@ -6,4 +6,4 @@ tornado七牛的上传接口，实现异步上传，解决上传大文件时，�
 #使用说明
 安装tonanado
 
-使用testDome进行测试
+使用testDome进行测试(请将uploader.py里的七牛key相关的改成自己key)
